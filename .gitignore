@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec.bak
+caveron_salon.db
+caveron_salon.db-wal
+caveron_salon.db-shm
+backups/*.db
+logs/*.log
+logs/*.png
+assets/staff/
+images/
+*.exe
+.pytest_cache/

@@ -1,0 +1,1 @@
+"""CAVERON desktop interface."""
